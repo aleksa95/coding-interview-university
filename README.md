@@ -111,6 +111,7 @@
 
 ---
 
+<!---
 ## Interview Process & General Interview Prep
 
 - [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
@@ -128,6 +129,7 @@
         - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
     - [ ] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
         - A Python centric interview prep course which covers data structures, algorithms, mock interviews and much more.
+-->
 
 ## Pick One Language for the Interview
 
@@ -313,24 +315,6 @@ An alternative to using my flashcard site is [Anki](http://ankisrs.net/), which 
 It's user-friendly, available on all platforms and has a cloud sync system. It costs $25 on iOS but is free on other platforms.
 
 My flashcard database in Anki format: https://ankiweb.net/shared/info/25173560 (thanks [@xiewenya](https://github.com/xiewenya))
-
-### 3. Review, review, review
-
-I keep a set of cheat sheets on ASCII, OSI stack, Big-O notations, and more. I study them when I have some spare time.
-
-Take a break from programming problems for a half hour and go through your flashcards.
-
-### 4. Focus
-
-There are a lot of distractions that can take up valuable time. Focus and concentration are hard.
-
-## What you won't see covered
-
-These are prevalent technologies but not part of this study plan:
-
-- SQL
-- Javascript
-- HTML, CSS, and other front-end technologies
 
 ## The Daily Plan
 
